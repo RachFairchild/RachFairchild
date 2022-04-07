@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack freelance developer currently refining my skills by building fun tools and websites.
+I’m a full-stack freelance developer who builds fun tools and websites.
 
 With a professional background in social justice research, I was drawn to the tech industry because I believe that the accessibility of technology has far-reaching and powerful implications for society. Now, I apply the skills I learned as a researcher to build websites that empower others by connecting them to critical services, information, and tools.  
   
