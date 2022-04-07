@@ -38,7 +38,7 @@ With a professional background in social justice research, I was drawn to the te
 </div> 
 
 ## The REAL Story...  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 <p>At age 10, my first foray into coding was inspired by a desire to scam others out of their hard-earned neopoints. Though my campaign was successful, I was wracked with guilt. To compensate, I got three degrees in criminology before I realized that I had it right back in 2004.</p> 
 <p>Now a reformed, ethical programmer (with an inordinate base of knowledge on the U.S. justice system), I like to make cool things to show <a href="https://github.com/tfairchild-tech">my mom</a>.</p>
