@@ -1,9 +1,7 @@
-<img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/162107348-51b01167-0596-4b1b-ae93-a9e3a71e4e29.png">
-
 
 ## Hi, I'm Rachel! 💛 
 
-
+<img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/162107348-51b01167-0596-4b1b-ae93-a9e3a71e4e29.png">
 
 
 <div align="center" display="inline-block">
