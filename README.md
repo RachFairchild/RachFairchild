@@ -44,7 +44,8 @@ With a professional background in social justice research, I was drawn to the te
 <p>Now a reformed, ethical programmer (with an inordinate base of knowledge on the U.S. justice system), I like to make cool things to show <a href="https://github.com/tfairchild-tech">my mom</a>.</p>
 
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="center" width="50%">
 
 <div align="center">
 
