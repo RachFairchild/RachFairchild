@@ -1,7 +1,7 @@
 
 ## Hi, I'm Rachel! 💛 
 
-<img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/162107348-51b01167-0596-4b1b-ae93-a9e3a71e4e29.png">
+<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/162107348-51b01167-0596-4b1b-ae93-a9e3a71e4e29.png"></a>
 
 
 <div align="center" display="inline-block">
@@ -49,7 +49,7 @@ With a professional background in social justice research, I was drawn to the te
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47q5kh37kyondtyk0w9baph0nzw1jomb0inqfnse8z&rid=giphy.gif&ct=g" align="center" style="width: 50%" />
+<a href="#"><img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47q5kh37kyondtyk0w9baph0nzw1jomb0inqfnse8z&rid=giphy.gif&ct=g" align="center" style="width: 50%" /></a>
   
   
 </div>  
