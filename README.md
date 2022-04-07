@@ -1,16 +1,11 @@
 ## Hi, I'm Rachel! 💛  
-  
 
-<a href="https://github.com/RachFairchild" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rachefairchild" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rfairchild" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<div align="center" display="inline-block">
+<a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:rfairchildma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
 
 
@@ -22,25 +17,35 @@ With a professional background in social justice research, I was drawn to the te
 
 <br/>  
 
+## Languages and Tools   
 
-## Rapidfire  
+<div align="center" display="inline-block">  
+  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+ 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
+  
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  
+</div> 
+
+## The REAL Story...  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning how to stop for breaks when I'm in the flow state  
-  
-
-- 👯 Looking to collaborate on projects that address social or environmental issues  
-  
-
-- ⚡ Fun fact: at age 10, my first foray into coding was to scam others out of their hard-earned neopoints.*
-
-*I am now a reformed, ethical programmer  
+At age 10, my first foray into coding was inspired by a desire to scam others out of their hard-earned neopoints. Though my campaign was successful, I was wracked with guilt. To compensate, I got three degrees in criminology before I realized that I had it right back in 2004. Now a reformed, ethical programmer (with an inordinate base of knowledge on the U.S. justice system), I like to make cool things to show <a href="https://github.com/tfairchild-tech">my mom</a>.
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" align="center" style="width: 100%" />
+
+<img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47q5kh37kyondtyk0w9baph0nzw1jomb0inqfnse8z&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+  
+  
 </div>  
 
 
@@ -49,34 +54,24 @@ With a professional background in social justice research, I was drawn to the te
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-</div>  
+
+
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachfairchild&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rachfairchild&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<p align="center"><img src="https://user-images.githubusercontent.com/71136508/162101463-c929ab13-ab4a-4892-9767-eba10f39cee3.png" align="center" style="width: 10%"></p>
 
-</td></tr></table>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 100%" />
+
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
