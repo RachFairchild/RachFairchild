@@ -69,12 +69,11 @@ With a professional background in social justice research, I was drawn to the te
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachfairchild&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="left" style="width: 100%" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rachfairchild&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="left" style="width: 100%" /></a>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/71136508/162101463-c929ab13-ab4a-4892-9767-eba10f39cee3.png" align="center" style="width: 10%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/71136508/162196674-d09e9d32-e83a-444c-a90c-ffaf08dc41f1.png" align="center" style="width: 10%"></p>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 100%" />
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 100%" /></a>
 
 
 <br/>  
