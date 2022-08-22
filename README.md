@@ -36,26 +36,7 @@ With a professional background in social justice research, I was drawn to the te
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   
 </div> 
-
-## The REAL Story...  
-<table><tr><td valign="center" width="50%">
-
-<p>At age 10, my first foray into coding was inspired by a desire to scam others out of their hard-earned neopoints. Though my campaign was successful, I was wracked with guilt. To compensate, I got three degrees in criminology before I realized that I had it right back in 2004.</p> 
-<p>Now a reformed, ethical programmer (with an inordinate base of knowledge on the U.S. justice system), I like to make cool things to show <a href="https://github.com/tfairchild-tech">my mom</a>.</p>
-
-
-</td>
-<td valign="center" width="50%">
-
-<div align="center">
-
-<a href="#"><img src="https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47q5kh37kyondtyk0w9baph0nzw1jomb0inqfnse8z&rid=giphy.gif&ct=g" align="center" style="width: 50%" /></a>
-  
-  
-</div>  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
