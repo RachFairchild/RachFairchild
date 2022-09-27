@@ -42,32 +42,16 @@ With a deep interest in wellness tech and a love for learning different technolo
 <img src="https://img.shields.io/badge/Node.js-8F7F7F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" data-hex="339933">
 
 <img src="https://img.shields.io/badge/Express.js-8F7F7F?style=for-the-badge&logo=express&logoColor=white" alt="Express" data-hex="000000">
-
-
-  
 </div> 
- 
-
-<br/>  
-
-
-
-
-
-<br/>  
+<br><br>  
 
 
 ## Github Stats  
 
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rachfairchild&show_icons=true&count_private=true&theme=nightowl&hide_border=true" align="left" style="width: 100%" /></a>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/71136508/162196674-d09e9d32-e83a-444c-a90c-ffaf08dc41f1.png" align="center" style="width: 10%"></p>
-
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&theme=nightowl" align="left" style="width: 100%" /></a>
 
 
-<br/>  
+<br>  
 
 
-<br />
+<br>
