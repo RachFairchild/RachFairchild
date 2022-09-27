@@ -5,10 +5,10 @@
 
 
 <div align="center" display="inline-block">
-<a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%23B09B9B.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%23B09B9B.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%23B09B9B.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-B09B9B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <br><br>
 
