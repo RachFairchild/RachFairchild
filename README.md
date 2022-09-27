@@ -1,7 +1,7 @@
 
 ## ☕ Hello world! 
 
-<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192548729-1f931491-5289-4efb-bf3f-277cccadb212.png"></a>
+<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192549202-f92b86f2-b922-46ec-a933-ebcde0522775.png"></a>
 
 
 <div align="center" display="inline-block">
