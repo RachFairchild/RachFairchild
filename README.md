@@ -1,5 +1,5 @@
 
-## Hello world!
+## ☕ Hello world! 
 
 <a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192524019-181a0f49-74d0-498d-8e53-a917d1aa1b14.png"></a>
 
@@ -23,7 +23,7 @@ With a deep interest in wellness tech and a love for learning different technolo
 
 <br> 
 
-## Languages and Tools   
+## 🤍 Languages and Tools  
 
 <div align="center" display="inline-block">  
   
