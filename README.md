@@ -10,16 +10,18 @@
 <a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
+<br><br>
 
 
+I’m a full-stack freelance web developer who builds tools and websites with the intention of making lives better.
 
-### Glad to see you here!  
-I’m a full-stack freelance developer who builds fun tools and websites.
 
-With a professional background in social justice research, I was drawn to the tech industry because I believe that the accessibility of technology has far-reaching and powerful implications for society. Now, I apply the skills I learned as a researcher to build websites that empower others by connecting them to critical services, information, and tools.  
-  
+With a professional background in social justice research, I was drawn to the tech industry because I believe that the accessibility of technology has far-reaching and powerful implications for society. Now, I apply the skills I learned as a researcher to build websites that empower others by connecting them to critical services, information, and tools. My latest application is a productivity tool that helps users conquer time-wasting habits by redirecting them toward more mindful practices.
 
-<br/>  
+
+With a deep interest in wellness tech and a love for learning different technologies, I am always looking for new opportunities to build and collaborate.
+
+<br><br>  
 
 ## Languages and Tools   
 
