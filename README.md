@@ -5,10 +5,10 @@
 
 
 <div align="center" display="inline-block">
-<a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%23B09B9B.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%23B09B9B.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%23B09B9B.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-B09B9B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%238F7F7F.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%238F7F7F.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%238F7F7F.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F7F7F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <br><br>
 
@@ -27,23 +27,21 @@ With a deep interest in wellness tech and a love for learning different technolo
 
 <div align="center" display="inline-block">  
   
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/html5-%238F7F7F.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" data-hex="E34F26">
   
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/css3-%238F7F7F.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" data-hex="1572B6">
  
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
-  
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/javascript-%238F7F7F.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" data-hex="323330" data-logo-hex="%23F7DF1E"> 
+    
+<img src="https://img.shields.io/badge/git-%238F7F7F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-hex="F05033">
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MongoDB-8F7F7F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" data-hex="4EA94B">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/React-8F7F7F?style=for-the-badge&logo=react&logoColor=white" alt="React" data-hex="20232A"  data-logo-hex="61DAFB">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt=" alt="Node.js">
+<img src="https://img.shields.io/badge/Node.js-8F7F7F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" data-hex="339933">
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Express.js-8F7F7F?style=for-the-badge&logo=express&logoColor=white" alt="Express" data-hex="000000">
 
 
   
