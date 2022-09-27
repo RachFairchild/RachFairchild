@@ -1,7 +1,7 @@
 
 ## Hello world!
 
-<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192523231-f84ddd4f-e0bb-4791-b437-8b30c41b6fe8.png"></a>
+<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192524019-181a0f49-74d0-498d-8e53-a917d1aa1b14.png"></a>
 
 
 <div align="center" display="inline-block">
