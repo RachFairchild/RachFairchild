@@ -1,7 +1,7 @@
 
 ## Hi, I'm Rachel!
 
-<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192515538-3cb56de7-308c-4b8d-bf01-80d3008c1705.png"></a>
+<a href="#"><img width="1280" alt="github-banner" src="https://user-images.githubusercontent.com/71136508/192523231-f84ddd4f-e0bb-4791-b437-8b30c41b6fe8.png"></a>
 
 
 <div align="center" display="inline-block">
