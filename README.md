@@ -21,8 +21,7 @@ With a professional background in social justice research, I was drawn to the te
 
 With a deep interest in wellness tech and a love for learning different technologies, I am always looking for new opportunities to build and collaborate.
 
-<br><br>  
-
+<br> 
 ## Languages and Tools   
 
 <div align="center" display="inline-block">  
