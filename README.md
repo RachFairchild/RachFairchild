@@ -48,8 +48,9 @@ With a deep interest in wellness tech and a love for learning different technolo
 
 ## 📈 Github Stats  
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&title_color=423b3b&text_color=423b3b&bg_color=fff9f2&icon_color=364556&hide_border=true" align="left" style="width: 100%" /></a>
-
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachfairchild&hide_border=true&layout=compact&title_color=423b3b&text_color=423b3b&bg_color=fff9f2&icon_color=364556&hide_border=true" style="width: 75%" /></a>
+</p>
 
 <br>  
 
