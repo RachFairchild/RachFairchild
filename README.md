@@ -13,7 +13,7 @@
 <br><br>
 
 
-I’m a full-stack freelance web developer who builds tools and websites with the intention of making lives better.
+I’m a full-stack web developer who builds tools and websites with the intention of making lives better.
 
 
 With a professional background in social justice research, I was drawn to the tech industry because I believe that the accessibility of technology has far-reaching and powerful implications for society. Now, I apply the skills I learned as a researcher to build websites that empower others by connecting them to critical services, information, and tools. My latest application is a productivity tool that helps users conquer time-wasting habits by redirecting them toward more mindful practices.
