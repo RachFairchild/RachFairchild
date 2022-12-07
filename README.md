@@ -45,6 +45,21 @@ With a deep interest in wellness tech and a love for learning different technolo
 </div> 
 <br><br>  
 
+<!--
+ ## My Projects
+
+<p align="center">
+  <img width="400" src="#" />
+  <img width="400" src="![pokemon-comparison](https://user-images.githubusercontent.com/71136508/206237198-63b7d828-c27d-4df1-8262-1caf250d08d4.gif)
+" />
+ <a href="https://github.com/RachFairchild/Instead">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=RachFairchild&repo=Instead&theme=tokyonight" />
+</a>
+  <a href="https://github.com/RachFairchild/pokemon-comparison">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=RachFairchild&repo=pokemon-comparison&theme=tokyonight" />
+</a>
+</p> 
+-->
 
 ## 📈 Github Stats  
 
