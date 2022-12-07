@@ -23,7 +23,7 @@ With a deep interest in wellness tech and a love for learning different technolo
 
 <br> 
 
-## 🤍 Languages and Tools  
+## 🔧 Languages and Tools  
 
 <div align="center" display="inline-block">  
   
@@ -46,14 +46,15 @@ With a deep interest in wellness tech and a love for learning different technolo
 <br><br>  
 
 <!--
- ## My Projects
+
+ ## 🤍 My Projects
 
 <p align="center">
-  <img width="400" src="#" />
-  <img width="400" src="![pokemon-comparison](https://user-images.githubusercontent.com/71136508/206237198-63b7d828-c27d-4df1-8262-1caf250d08d4.gif)
-" />
- <a href="https://github.com/RachFairchild/Instead">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=RachFairchild&repo=Instead&theme=tokyonight" />
+  <img src="https://user-images.githubusercontent.com/71136508/206247132-8f556fd9-5c55-47dd-86a3-8f4cf45a2fab.gif" width="400" alt="tia transformations website gif">
+  <img src="https://user-images.githubusercontent.com/71136508/206237198-63b7d828-c27d-4df1-8262-1caf250d08d4.gif" width="400" alt="pokemon comparison tool gif">
+
+ <a href="https://github.com/RachFairchild/tia-transformations">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=RachFairchild&repo=tia-transformations&theme=tokyonight" />
 </a>
   <a href="https://github.com/RachFairchild/pokemon-comparison">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=RachFairchild&repo=pokemon-comparison&theme=tokyonight" />
