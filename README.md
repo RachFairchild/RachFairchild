@@ -7,8 +7,8 @@
 <div align="center" display="inline-block">
 <a href="https://twitter.com/rachefairchild"><img src="https://img.shields.io/badge/@rachefairchild-%238F7F7F.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/rfairchild/"><img src="https://img.shields.io/badge/linkedin-%238F7F7F.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://discordapp.com/users/Rachib#9718"><img src="https://img.shields.io/badge/Rachib-%238F7F7F.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="mailto:rachfairchild.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F7F7F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://discordapp.com/users/Rachib"><img src="https://img.shields.io/badge/Rachib-%238F7F7F.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:rach@rachfairchild.com"><img src="https://img.shields.io/badge/Gmail-8F7F7F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 <br><br>
 
@@ -42,6 +42,8 @@ With a deep interest in wellness tech and a love for learning different technolo
 <img src="https://img.shields.io/badge/Node.js-8F7F7F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" data-hex="339933">
 
 <img src="https://img.shields.io/badge/Express.js-8F7F7F?style=for-the-badge&logo=express&logoColor=white" alt="Express" data-hex="000000">
+
+<img src="https://img.shields.io/badge/Microsoft Azure-8F7F7F?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" data-hex="339933">
 </div> 
 <br><br>  
 
